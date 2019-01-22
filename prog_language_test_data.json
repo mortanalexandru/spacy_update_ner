@@ -1,0 +1,31 @@
+[
+  [
+    "The public learned how to clean and prepare text data and featurize it to make it valuable for machine learning scenarios, to strip the data from any sensitive information and also anonymize/encrypt it, to create a classification model using Python modules like: sklearn, nltk, matplotlib, pandas, to create a web service with a trained model and deploy it to Azure and to leverage Azure Machine Learning Services and AML Workbench to make working on ML projects easier, faster and much more efficient.",
+    [
+      [
+        242,
+        248,
+        "PROG_LANG"
+      ],
+      [
+        360,
+        365,
+        "ORG"
+      ],
+      [
+        382,
+        413,
+        "ORG"
+      ],
+      [
+        418,
+        431,
+        "PERSON"
+      ],
+      [
+        451,
+        453,
+        "ORG"
+      ]
+    ]
+  ]]
